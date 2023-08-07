@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691123566795</updated>
       <workItem from="1691123569126" duration="4895000" />
-      <workItem from="1691373158091" duration="1967000" />
+      <workItem from="1691373158091" duration="2998000" />
     </task>
     <task id="LOCAL-00001" summary="서버/클라이언트 컴포넌트">
       <created>1691128716957</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691375086639</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cache">
+      <created>1691375134429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691375134429</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
